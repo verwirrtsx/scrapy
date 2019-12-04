@@ -3,4 +3,7 @@
 --- 图片文件夹和get_media_quest 使用
 ### stroy 爬取小说网站 存储数据库 数据库文件stroy.sql
 
+### stroy 爬取小说网站 存储数据库 数据库文件stroy.sql
 ---- PYMySQL 使用 
+### caip 双色球爬取
+---- 双色球历史记录
